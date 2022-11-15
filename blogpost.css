@@ -1,0 +1,43 @@
+body {
+
+    border: 13px #bdc7cf solid; 
+    font-family: 'Source Sans Pro', sans-serif;
+    max-width: 1000px; 
+    width: 80%;
+    padding: 25px;
+    margin: 25px auto; 
+
+}
+
+
+h2 {
+
+    color: #354b63; 
+
+}
+
+
+.date { 
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    color: #3098dd;
+}
+
+
+.quote {
+
+    border-left: 10px solid #bdc7cf;
+    padding-left: 10px;
+
+}
+
+
+hr {
+
+    border: 0;
+    height: 0;
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+    margin: 25px 0;
+
+}
